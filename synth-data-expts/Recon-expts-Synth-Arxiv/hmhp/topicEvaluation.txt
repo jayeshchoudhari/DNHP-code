@@ -1,0 +1,9 @@
+Got pred topic assignments
+Got orig topic assignments
+Total L1 Diff =  646.958900243
+Avg L1 Diff =  0.00646952430719
+Max L1 =  1.99621041774
+Median L1 =  0.003670390366146241
+Min L1 =  0.00367039036615
+Var L1 =  0.00016643533156581803
+Std Dev. =  0.012900981806274204
